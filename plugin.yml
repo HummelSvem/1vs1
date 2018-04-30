@@ -1,5 +1,5 @@
 name: 1vs1
-main: ByBezge
+main: onevsone\src
 version: 0.0.4
 api: [3.0.0-ALPHA12]
 
